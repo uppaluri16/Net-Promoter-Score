@@ -19,7 +19,7 @@ Promoters: Respondents with a score of 9-10.
 How to calculate NPS score?
 Net Promoter score = % Promoters - % Detractors.
 
-![plot](./C:/Users/bhava/OneDrive/Desktop/plot.png)
+![plot](.C:/Users/bhava/OneDrive/Desktop/plot.png)
 
 Range of NPS
 If all people are promoters (rated 9-10), we get NPS 100
